@@ -1,1 +1,5 @@
-print("Hello Python World")
+a="Hello Python World"
+b=a.split()
+print(b)
+
+
