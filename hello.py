@@ -3,4 +3,4 @@ a="garima"
 print(a.replace("a","b"))
 a="indian"
 b=a.upper()
-print(b)
+print("Your name is :",b)
